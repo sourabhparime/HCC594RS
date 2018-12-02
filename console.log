@@ -1,4 +1,4 @@
- * Serving Flask app "flaskapp/app.py"
+ * Serving Flask app "../../PS/Reco/RecoEnginePS/flaskapp/app.py"
  * Environment: development
  * Debug mode: off
 D:\PS\Reco\RecoEnginePS\venv\lib\site-packages\odo\backends\pandas.py:94: FutureWarning: pandas.tslib is deprecated and will be removed in a future version.
@@ -9,4 +9,4 @@ D:\PS\Reco\RecoEnginePS\venv\lib\site-packages\flask_sqlalchemy\__init__.py:794:
 
 SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
 
-127.0.0.1 - - [02/Dec/2018 05:27:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [02/Dec/2018 05:58:03] "GET / HTTP/1.1" 200 -
